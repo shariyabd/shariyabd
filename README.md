@@ -1,4 +1,4 @@
-[!MasterHead](github-preview-2-01.jpg)
+![MasterHead](github-preview-2-01.jpg)
 
 <h1 align="center">Hi 👋, I'm Shariya Shuvo</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
