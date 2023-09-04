@@ -1,7 +1,9 @@
+[![MasterHead](github-preview-2-01.jpg)]
+
 <h1 align="center">Hi 👋, I'm Shariya Shuvo</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shariyabd" /> </p>
+
 
 - 🔭 I’m currently working on **Quiz Application**
 
