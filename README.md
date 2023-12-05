@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Quiz Application**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://shariyabd.github.io/my-portfolio/](https://shariyabd.github.io/my-portfolio/)
 
