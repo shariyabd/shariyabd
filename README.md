@@ -4,9 +4,6 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shariyabd" /> </p>
 
-
-- 🔭 I’m currently working on **Quiz Application**
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://shariyabd.github.io/my-portfolio/](https://shariyabd.github.io/my-portfolio/)
