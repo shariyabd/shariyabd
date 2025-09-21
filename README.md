@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shariya</h1>
-<h3 align="center">A passionate web developer & Machine Learning enthusiast from Bangladesh</h3>
+<h3 align="center">A passionate Backend Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="shariyabd" />
