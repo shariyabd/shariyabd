@@ -10,9 +10,9 @@
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=shariyabd&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </div>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Docker**
 - 👨‍💻 All of my projects are available at [https://shariyabd.github.io/my-portfolio/](https://shariyabd.github.io/my-portfolio/)
-- 💬 Ask me about **Web Development & Machine Learning**
+- 💬 Ask me about **Backend Development**
 - 📫 How to reach me: **shariya873@gmail.com**
 
 ---
